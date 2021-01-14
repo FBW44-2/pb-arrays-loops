@@ -1,3 +1,6 @@
+// ----------------- Old code without arrays and loops
+
+
 // "hello" -> 1
 // "apple" -> 0
 // "string" -> 3
