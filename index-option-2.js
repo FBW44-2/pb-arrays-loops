@@ -19,7 +19,7 @@ const words = [
 // Pseudocode
 // go over each character in the word
 // check if it is a vowel
-// save the position in a variable
+// if it is - exit early with break;
 
 const vowels = [
     'a',
